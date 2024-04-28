@@ -18,9 +18,9 @@ Once the MovieApp is launched, you will be presented with the main screen displa
 ## Contributing:
 Project authors: Klyha Gleb, Alexey Sushkevich, Nikita Mantush.
 
-Nikita Mantush - responsible for all routine work.
+Nikita Mantush - responsible for the development of the search and booking functionality.
 
-Klyha Gleb - responsible for the development of the search and booking functionality.
+Klyha Gleb - responsible for all routine work.
 
 Alexey Sushkevich - responsible for integration with the payment gateway and all code development.
 
