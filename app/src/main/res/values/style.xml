@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextHeaderStyle">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="LoginTextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/orange</item>
+        <item name="boxStrokeWidth">2dp</item>
+    </style>
+    <style name="MyTextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <!-- border color -->
+        <item name="boxStrokeColor">@color/orange</item>
+
+        <!-- The color of the label when it is collapsed and the text field is active -->
+        <item name="hintTextColor">@color/orange</item>
+        <!-- The color of the label in all other text field states (such as resting and disabled) -->
+        <item name="android:textColorHint">@color/orange</item>
+    </style>
+
+    <style name="circular">
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="MyTextInputLayout_overlay">
+        <item name="colorOnSurface">@color/orange</item>
+        <item name="colorPrimary">@color/orange</item>
+    </style>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange" tools:override="true">#FF7427</color>
+    <color name="yellow">#FFC107</color>
+    <color name="red">#F44336</color>
+    <color name="dark_blue">#2B2E4C</color>
+    <color name="main_color">#1F1D2B</color>
+    <color name="mtrl_textinput_default_box_stroke_color" tools:override="true">#FF7427</color>
+
+</resources>
